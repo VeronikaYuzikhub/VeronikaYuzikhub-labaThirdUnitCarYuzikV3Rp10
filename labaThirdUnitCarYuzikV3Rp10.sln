@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "labaThirdUnitCarYuzikV3Rp10", "labaThirdUnitCarYuzikV3Rp10\labaThirdUnitCarYuzikV3Rp10.csproj", "{D83D50CF-48D6-4906-B908-91D425CAE7CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCar", "TestCar\TestCar.csproj", "{B55E3148-E329-48D2-95CC-D71A34A037C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D83D50CF-48D6-4906-B908-91D425CAE7CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D83D50CF-48D6-4906-B908-91D425CAE7CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D83D50CF-48D6-4906-B908-91D425CAE7CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D83D50CF-48D6-4906-B908-91D425CAE7CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B55E3148-E329-48D2-95CC-D71A34A037C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55E3148-E329-48D2-95CC-D71A34A037C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55E3148-E329-48D2-95CC-D71A34A037C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55E3148-E329-48D2-95CC-D71A34A037C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

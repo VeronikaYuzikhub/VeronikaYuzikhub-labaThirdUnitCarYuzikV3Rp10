@@ -1,0 +1,6 @@
+﻿/TestCar/bin/Debug/net10.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+bin/
+obj/
+.idea/
+*.user
+*.suo
