@@ -1,0 +1,13 @@
+name: CI/ CD Pipeline
+on:
+  push:
+    branches: [ "main" ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Build dotnet
+        run: dotnet build
+      - name: Run unit tests
+        run: dotnet test
